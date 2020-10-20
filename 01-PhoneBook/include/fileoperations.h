@@ -1,6 +1,6 @@
 #pragma once
 #include "phone_record.h"
-int test;
+
 struct PhonebookFile{
 	const char *filename;
 	FILE *phonebook;
